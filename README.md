@@ -22,3 +22,11 @@ I have also used [React Date Picker](https://github.com/Hacker0x01/react-datepic
 ### Build the app for production to the `build` folder.
 
 ### `npm run build`
+
+### Install HTTP server for running production build
+
+### `sudo npm install -g serve`
+
+### Run the app in the production mode ([http://localhost:8000](http://localhost:8000))
+
+### `serve -s build -p 8000`

@@ -1,4 +1,4 @@
-# React Task Tracker
+# React Task Tracker UI
 
 I am not an author of this app. I have created it for learning purpose based on the [React JS Crash Course 2021](https://youtu.be/w7ejDZ8SWv8) with small amendments. 
 All credits to [Brad Traversy](https://github.com/bradtraversy) from [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured).

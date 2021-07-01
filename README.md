@@ -17,7 +17,7 @@ I have also used [React Date Picker](https://github.com/Hacker0x01/react-datepic
 
 ### Run the app in the development mode ([http://localhost:3000](http://localhost:3000))
 
-### `npm start`
+### `npm run start`
 
 ### Build the app for production to the `build` folder.
 
